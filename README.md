@@ -12,7 +12,7 @@ This code was tested with Python 3.6 and Pytorch 1.4.
 ## Preparation
 
 Download data and unzip it in ./data
-- [Polyvore Outfits](https://drive.google.com/file/d/13-J4fAPZahauaGycw3j_YvbAHO7tOTW5/view?usp=sharing)
+- [Polyvore Outfits](https://huggingface.co/datasets/mvasil/polyvore-outfits)
 - [Animals with Attributes 2](https://cvml.ist.ac.at/AwA2/)
 
 ## Saliency Map Test
